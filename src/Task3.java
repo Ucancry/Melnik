@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class task3 {
+public class Task3 {
 
     public static void main(String[] args) {
         // Числовой массив заполним рандомными числами от 0 до 1000, колл-во чисел введем с клавиатуры

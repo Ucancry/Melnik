@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class task2 {
+public class Task2 {
     public static void main(String[] args) {
         Scanner scanner2 = new Scanner(System.in);
         System.out.print("Введите имя: ");
