@@ -5,17 +5,6 @@ public class task4 {
 либо вторую полукруглую открывающую на квадратную открывающую
 либо предпоследнюю квадратную закрывающую на полукруглую закрывающую
  */
-    public static void main(String[] args) {
-        int count = 0;
-        char[] let = {'[','(','(','(',')',')','(',')','(','(',')',')',']',']' };
-        System.out.println(let.length);
-        for (int i = 0; i < let.length; i++) {
-            if ((let[i] == '(') || (let[i] == '[')) {
-                count++;
-            } else {
-                count--;
-            }  ;
-        }
-        System.out.println(count);
+
     }
 }
